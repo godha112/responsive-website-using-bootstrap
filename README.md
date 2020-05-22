@@ -1,2 +1,2 @@
 # responsive-website-using-bootstrap
-A website that demonstrate how responsive websites behave according to the screen size
+A website that demonstrates how responsive websites behave according to the screen size
